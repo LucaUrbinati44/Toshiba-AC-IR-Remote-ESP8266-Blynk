@@ -1,8 +1,8 @@
 # Toshiba-AC---ESP8266-Blynk
 Remote controlling an Air Conditioner (Toshiba in this case) with an ESP8266 board (WeMos D1 mini) and Blynk app.
-----------------
 
 * ----> Toshiba_ac_blynk.ino
+----------------
 
 In the code you can learn how to:
 
@@ -17,8 +17,8 @@ I have used a Wemos D1 mini board (ESP8266 built-in).
 Written by Luca Urbinati with some useful libraries: WiFiManager, Blynk library, Adafruit DHT sensor libraries, Toshiba AC library, from Mattia Rossi (link in the code).
 
 In collaboration with FabLab Romagna: http://fablabromagna.org/
-----------------
 
 * ----> Toshiba_ac_blynk.jpg
+----------------
 
 This is the picture that shows the configuration of Blynk App blocks used in this project.
